@@ -1,5 +1,3 @@
-#runGitHub("mental_health_in_tech", "chingpau")
-
 survey_orginal <- read_csv("survey.csv")
 colnames(survey_orginal)
 
